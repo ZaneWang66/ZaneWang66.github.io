@@ -26,9 +26,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Zihan Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD student in Mathematics"
+  location         : "China"
+  employer         : "Southern University of Science and Technology"
   uri              : # URL
   email            : "none@example.org" 
 
