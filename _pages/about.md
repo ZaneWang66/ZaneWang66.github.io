@@ -7,4 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-To be continue...
+Zihan Wang is currently a Ph.D. student in mathematics at the [Southern University of Science and Technology](https://www.sustech.edu.cn/), supervised by [Prof. Bochen Liu](https://www.sustech.edu.cn/en/faculties/liubochen.html).
+
+
+:heart:Research Interests
+
+- Harmonic analysis
+- Geometric Measure theory
