@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About Me"
+title: "About Me:sunglasses:"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-:sunglasses:**Zihan Wang** is currently a **Ph.D. student** in mathematics at the [Southern University of Science and Technology](https://www.sustech.edu.cn/), supervised by [Prof. Bochen Liu](https://www.sustech.edu.cn/en/faculties/liubochen.html).
+**Zihan Wang** is currently a **Ph.D. student** in mathematics at the [Southern University of Science and Technology](https://www.sustech.edu.cn/), supervised by [Prof. Bochen Liu](https://www.sustech.edu.cn/en/faculties/liubochen.html).
 
 
 :pencil:Research Interests:
